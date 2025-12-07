@@ -1,4 +1,1 @@
-Final 25-1 P1 y P2
-Lab 15 Funcionando
-
-## Programacion3PUCP
+## Materiales para EX2 de 1INF30 25-1
